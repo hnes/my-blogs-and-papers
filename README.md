@@ -26,9 +26,11 @@ vvv
 v
 
 &emsp;**定理P1&emsp;P/A操作所发出的成功一个成功chosen的P/A操作[^13]，假设它所选中的议案值为$v$，那么后续所有成功chosen的P/A操作一定都是help-chosen的P/A操作，并且它们所选中的议案值一定与$v$相同**
-$$
-x>y
-$$
+
+<p align="center"> <img src="latex.png"></p>
+
 &emsp;**P/A操作所发出的成功一个成功chosen的P/A操作[^13]，假设它所选中的议案值为$v$，那么后续所有成功chosen的P/A操作一定都是help-chosen的P/A操作，并且它们所选中的议案值一定与$v$相同。**
 
 &emsp;**证**&emsp;P/A操作所发出的成功一个成功chosen的P/A操作[^13]，假设它所选中的议案值为$v$，那么后续所有成功chosen的P/A操作一定都是help-chosen的P/A操作，并且它们所选中的议案值一定与$v$相同。
+
+![drawing](latex.png)
